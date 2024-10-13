@@ -11,7 +11,7 @@ See the [font=Courier New]Cheat Keys[/font] section for the list of cheats.
  
 This mod has a couple of differences from dv's:
 [list]
-[*]Does not require overwriting the game's original files.  This makes mod more compatible with other mods.
+[*]Does not require overwriting the game's original files.  This makes the mod more likely to be compatible with other mods.
 [*]Uses a hotkey instead of the game's "magic text" to activate.
 [*]Can be toggled on and off.
 [/list]
